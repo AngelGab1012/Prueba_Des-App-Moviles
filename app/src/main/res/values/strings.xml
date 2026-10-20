@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="materia">Desarrollo de Aplicaciones</string>
+    <string name="nombre">Angel Gabriel</string>
+    <string name="apellido">Palacios Medina</string>
+    <string name="bottom_app_bar">Barra Inferior de la App</string>
+    <string name="home_fab_text">Agregar</string>
+    <string name="snack_message">Hola</string>
+    <string name="snack_action">asdasdasd</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="materia">應用程式開發</string>
+    <string name="nombre">Angel Gabriel</string>
+    <string name="apellido">Palacios Medina</string>
+    <string name="bottom_app_bar">ASDASDASD</string>
+    <string name="home_fab_text">ZXCZXCZXC</string>
+    <string name="snack_message">Hola</string>
+    <string name="snack_action">asdasdasd</string>
+</resources>
